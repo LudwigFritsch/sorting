@@ -1,7 +1,7 @@
 # Sorting Visualizer
 
 This project visualizes different sorting algorithms in action. Algorithms implemented are Quicksort, Heapsort, Mergesort and Bubblesort.
-You can check it out here: https://ludwigfritsch.github.io/SortingVisualizer/
+You can check it out here: https://ludwigfritsch.github.io/sorting/
 
 ## Short technical explanation
 
@@ -11,4 +11,3 @@ A sorting algorithm gets passed this array and returns a two-dimensional-array o
 These animations contain the indices of the two values that get compared.
 The array of animations gets traversed and for every comparison the rendered bars swap their heights.
 This way the array gets sorted in ascending order.
-
